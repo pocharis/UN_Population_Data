@@ -1,0 +1,162 @@
+China	656
+India	479
+United States of America	285
+Brazil	283
+Japan	278
+Russian Federation	177
+Philippines	164
+Mexico	123
+United Kingdom of Great Britain and Northern Ireland	89
+Iran (Islamic Republic of)	88
+Germany	85
+Thailand	77
+Turkey	71
+Spain	66
+Republic of Korea	56
+Colombia	55
+Canada	54
+Pakistan	51
+Indonesia	49
+Ukraine	49
+Venezuela (Bolivarian Republic of)	47
+Italy	45
+Poland	42
+Malaysia	42
+Egypt	41
+France	40
+Australia	30
+Chile	30
+Netherlands	28
+Saudi Arabia	26
+Romania	25
+Bangladesh	24
+Peru	23
+Democratic People's Republic of Korea	23
+Dominican Republic	20
+Kazakhstan	20
+Uzbekistan	17
+Ecuador	16
+Myanmar	15
+Belarus	15
+Israel	14
+Costa Rica	14
+Serbia	13
+El Salvador	13
+Switzerland	13
+Burkina Faso	13
+Cuba	12
+New Zealand	11
+Kenya	11
+Sweden	11
+Zambia	10
+Nepal	10
+Senegal	10
+Finland	9
+Austria	9
+Hungary	9
+United Republic of Tanzania	9
+Belgium	9
+Bolivia (Plurinational State of)	8
+Greece	8
+Czech Republic	8
+Portugal	8
+Denmark	7
+Oman	7
+Puerto Rico	7
+Bosnia and Herzegovina	7
+Bulgaria	7
+Sri Lanka	6
+State of Palestine	6
+Ghana	6
+Zimbabwe	5
+Madagascar	5
+Guatemala	5
+Lithuania	5
+Honduras	4
+Norway	4
+Jordan	4
+Jamaica	4
+Croatia	4
+Qatar	4
+Georgia	4
+Azerbaijan	3
+Mongolia	3
+Armenia	3
+Republic of South Sudan	3
+Kuwait	3
+Mauritius	3
+Botswana	2
+Malawi	2
+Réunion	2
+Slovakia	2
+Slovenia	2
+Kyrgyzstan	2
+TFYR of Macedonia	2
+Bermuda	2
+Albania	2
+Republic of Moldova	2
+Ireland	2
+Nicaragua	2
+Tajikistan	2
+Estonia	2
+Uruguay	2
+Latvia	2
+Guadeloupe	1
+Bahamas	1
+Bahrain	1
+Andorra	1
+Burundi	1
+Eritrea	1
+Iceland	1
+Lebanon	1
+Lesotho	1
+Uganda	1
+Namibia	1
+Tuvalu	1
+Rwanda	1
+Holy See	1
+Pitcairn	1
+Suriname	1
+Gibraltar	1
+Greenland	1
+Jersey	1
+Singapore	1
+Guyana	1
+Gambia	1
+Luxembourg	1
+Martinique	1
+Mauritania	1
+Montenegro	1
+San Marino	1
+Bhutan	1
+Tonga	1
+Isle of Man	1
+Niger	1
+Saint Lucia	1
+Timor-Leste	1
+Malta	1
+South Africa	1
+French Guiana	1
+Liechtenstein	1
+New Caledonia	1
+American Samoa	1
+Cayman Islands	1
+Faeroe Islands	1
+Åland Islands	1
+French Polynesia	1
+Marshall Islands	1
+Papua New Guinea	1
+Brunei Darussalam	1
+China - Macao SAR	1
+Gabon	1
+Aruba	1
+Trinidad and Tobago	1
+China - Hong Kong SAR	1
+Saint Helena ex. dep.	1
+Sao Tome and Principe	1
+Northern Mariana Islands	1
+Saint Pierre and Miquelon	1
+Niue	1
+Falkland Islands (Malvinas)	1
+Guam	1
+Fiji	1
