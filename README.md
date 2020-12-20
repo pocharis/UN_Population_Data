@@ -1,7 +1,6 @@
 # UN_Population_Data
 UN Population data analysis using apache pig
-You are given the “UN city population” dataset. Perform the following analysis
-using Pig:
+You are given the “unsd-citypopulation-year-fm.csv” dataset. Perform the following analysis using Pig:
 
 Question 1: Find the number of countries in the dataset.
 
